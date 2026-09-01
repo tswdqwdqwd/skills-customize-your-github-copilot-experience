@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-to-do-tracker",
+      "title": "To-Do Tracker",
+      "description": "Build a personal task tracker using Python and SQLite to practice data storage, CRUD operations, and menu-driven programs.",
+      "path": "assignments/python-to-do-tracker",
+      "dueDate": "2026-09-08",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
